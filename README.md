@@ -8,6 +8,8 @@
 
 A GUI-based port scanning tool built using Python and Tkinter, integrating Nmap for network reconnaissance and service detection.
 
+# Author : Aroh Maurya
+
 ---
 
 ## 🚀 Features
